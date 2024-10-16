@@ -1,10 +1,10 @@
 {
 	"$schema": "./projInfo-schema.json",
 
-	"title": "Profectus",
-	"description": "A project made in Profectus",
-	"id": "",
-	"author": "",
+	"title": "The MJ Tree",
+	"description": "The MJ Tree remade in Profectus",
+	"id": "askinga1",
+	"author": "Askinga",
 	"discordName": "",
 	"discordLink": "",
 
